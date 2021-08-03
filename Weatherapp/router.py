@@ -3,5 +3,5 @@ from rest_framework import routers
 
 
 router = routers.DefaultRouter()
-router.register('get-paramters',APIViewset)
+router.register('get-parameters',APIViewset)
 
